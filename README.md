@@ -14,9 +14,9 @@ En la carpeta:
 - EventTypes.csv contiene detalles sobre algún evento en relación a una propiedad. Por ejemplo, si la propiedad fue vista (en línea), visita, agendamiento, etc.
 
 
-## EmpresaRecaudos
+## Empresa de Recaudos
 
-Nombre: EmpresaRecaudos
+Nombre: EmpresaRecaudos.csv
 
 Fuente: cedida por compañía de forma anónima
 
@@ -32,7 +32,7 @@ En el Archivo:
 
 ## Motos
 
-Nombre: Motos
+Nombre: Motos.csv
 
 Fuente: cedida por compañía de forma anónima
 
@@ -44,9 +44,9 @@ En el archivo:
 - NombreProducto: Motocicleta comprada
 
 
-## OnlineRetail
+## Online Retail
 
-Nombre: Online Retail
+Nombre: OnlineRetail.csv
 
 Fuente: [University of California at Irving (UCI) Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 

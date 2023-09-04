@@ -3,7 +3,7 @@
 ## Real Estate
 
 Nombre: [Rental Properties Collaboration Data](https://www.kaggle.com/datasets/arashnic/property-data)
-Fuente: (arashnic)[www.kaggle.com/arashnic] @ Kaggle
+Fuente: [arashnic](www.kaggle.com/arashnic) @ Kaggle
 Descripción: base de datos generada por diversos sistemas de recomendación en el sector de bienes raíces (10000 registros). Las entradas de esta (*logs*) emulan las rentas en línea.
 En la carpeta:
 - Transactions.csv contiene los registros de rentas de propiedades

@@ -3,8 +3,11 @@
 ## Real Estate
 
 Nombre: [Rental Properties Collaboration Data](https://www.kaggle.com/datasets/arashnic/property-data)
+
 Fuente: [arashnic](www.kaggle.com/arashnic) @ Kaggle
+
 Descripción: base de datos generada por diversos sistemas de recomendación en el sector de bienes raíces (10000 registros). Las entradas de esta (*logs*) emulan las rentas en línea.
+
 En la carpeta:
 - Transactions.csv contiene los registros de rentas de propiedades
 - Property.csv contiene detalles sobre las propiedades
@@ -12,9 +15,13 @@ En la carpeta:
 
 
 ## EmpresaRecaudos
+
 Nombre: EmpresaRecaudos
+
 Fuente: cedida por compañía de forma anónima
+
 Descripción: base de datos que guarda la trazabilidad de diversas transacciones (10000 registros) realizadas por clientes en una compañía de apuestas, recaudo de servicios públicos, recarga de servicios prepago (telefonía celular, televisión satelital prepago, etc.)
+
 En el Archivo:
 - ID.Nombre: id del cliente
 - Producto: Producto solicitado
@@ -24,9 +31,13 @@ En el Archivo:
 
 
 ## Motos
+
 Nombre: Motos
+
 Fuente: cedida por compañía de forma anónima
+
 Descripción: base de datos con 100000 registros que guarda trazabilidad en la compra de motocicletas.
+
 En el archivo:
 - ClienteID: Identificación del cliente
 - Fecha: Fecha (día de la semana, día mes y año) de la compra
@@ -34,9 +45,13 @@ En el archivo:
 
 
 ## OnlineRetail
+
 Nombre: Online Retail
+
 Fuente: [University of California at Irving (UCI) Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+
 Descripción: 100000 registros de transacciones realizadas virtualmente entre el 01/12/2010 y el 09/12/2011 para compañía británica de *retail*
+
 En el archivo:
 - InvoiceNo: número identificador de la transacción. Si empieza por la letra 'c', indica cancelación. 
 - StockCode: código del ítem (producto). Código asignado a cada producto.

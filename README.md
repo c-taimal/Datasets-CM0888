@@ -27,7 +27,7 @@ En el Archivo:
 - Producto: Producto solicitado
 - Monto: Cantidad en pesos de la transacción comercial
 - Fecha: Fecha en la que se realiza la transacción comercial (Día/Mes/Año)
-- Hora: Hora de la transacción (HH:MM:SS en formato de 24 horas)
+- Hora: Hora de la transacción (HH:MM:SS en formato 24 horas)
 
 
 ## Motos
